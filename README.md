@@ -11,3 +11,6 @@ java -jar JTetris.jar
 
 ```
 
+## Screenshot
+
+![Screenshot](screenshot.png)
